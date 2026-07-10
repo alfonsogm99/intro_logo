@@ -1,4 +1,4 @@
-### REAMDE
+### README
 
 Animación de introducción con un efecto visual (aparición del logo con desenfoque y una transición automática hacia el contenido de la página).
 

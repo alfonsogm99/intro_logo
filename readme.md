@@ -4,13 +4,9 @@ Animación de introducción con un efecto visual (aparición del logo con desenf
 
 ### Capturas
 
-<details open>
-
 <table>
 <tr>
 <td align="center">
-
-### Vista principal
 
 <picture>
   <source srcset="./img/captura.png">
@@ -21,8 +17,6 @@ Animación de introducción con un efecto visual (aparición del logo con desenf
 
 <td align="center">
 
-### Vista alternativa
-
 <picture>
   <source srcset="./img/captura_2.png">
   <img src="./img/captura_2.png" width="600" alt="Intro Logo Animation alternativa">
@@ -31,5 +25,3 @@ Animación de introducción con un efecto visual (aparición del logo con desenf
 </td>
 </tr>
 </table>
-
-</details>
